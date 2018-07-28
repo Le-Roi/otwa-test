@@ -1,6 +1,6 @@
-		#Otworis new testing file 
+		# Otworis new testing file 
 
-##to make sure all goes well 
+## to make sure all goes well 
 	* plan your day
 	*stick to your budget
 
@@ -9,4 +9,4 @@
 		* you will be recognised
 		* a lasting name will remain on earth under you
 
-		# Hurrrey ????!!!!
+# Hurrrey ????!!!!
